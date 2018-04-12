@@ -8,6 +8,6 @@ public class aaa {
 
     public static void main(String[] args) {
         System.out.print("skdsdu");
-        ghfh
+        ghfhll,kmm
     }
 }
